@@ -1,6 +1,6 @@
 # Visit Tracker API
 
-This is a backend project I built for a take-home assignment from Occicor. The system tracks store visits with support for user roles (Admin and Standard), JWT authentication, and includes CRUD operations for users, stores, products, visits, and photos.
+ The system tracks store visits with support for user roles (Admin and Standard), JWT authentication, and includes CRUD operations for users, stores, products, visits, and photos.
 
 I used .NET 7, Entity Framework Core, and MySQL. I also added bonus features like pagination, filtering, sorting, and unit tests to go the extra mile.
 
